@@ -18,7 +18,7 @@ app.layout = html.Div([
 			{'label': 'Mapletree Commercial Trust', 'value': 'N2IU.SI'},
 			{'label': 'CapitaRetial China Trust', 'value': 'AU8U.SI'},
 		],
-		value='COKE'
+		value='AW9U.SI'
 	),
 	dcc.Graph(id='my-graph')
 	], style={'width': '500'})
